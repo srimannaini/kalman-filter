@@ -366,7 +366,7 @@ for k = 1:kMax            % sample index
  sigmaXposPxl = 0.8;                         % measurement noise standard deviation
  rVar3        = sigmaXposPxl * sigmaXposPxl; %measurement noise cov matrix
  qVarXpos     = 5.0;                         %process noise cov diagonal elements initialization
- qVarXdot     = 400; 
+ qVarXdot     = 400;                         %process noise for velocity
  qVarTheta    = 5.0; 
  
  q11          = qVarXpos; 
