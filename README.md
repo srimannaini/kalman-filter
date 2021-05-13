@@ -21,7 +21,7 @@ Design &amp; Implementation of Extended Kalman Filter for 2-Axis ball plate for 
 ## Plots for P & K (50 values)
 ![image](https://user-images.githubusercontent.com/66320109/118112787-c477cb80-b3e5-11eb-960a-d4b7f7682e6b.png)
 ## C-Functions
-![image](https://user-images.githubusercontent.com/66320109/118112922-ecffc580-b3e5-11eb-81a6-9bd4b66329e0.png)
+
 ![image](https://user-images.githubusercontent.com/66320109/118112963-fb4de180-b3e5-11eb-927c-d82b84a4018d.png)
 ## KFn4( Matlab vs C-functions)
 #### Comparison of C-Output and Matlab Output
